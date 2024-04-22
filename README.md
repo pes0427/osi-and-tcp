@@ -1,3 +1,3 @@
 # osi-and-tcp
 
-![oci-and-tcp](https://github.com/pes0427/osi-and-tcp/assets/113429141/413fa511-ddb5-46b7-866b-da4e059c0354)
+![oci-and-tcp](https://github.com/pes0427/osi-and-tcp/assets/113429141/93d0310e-7e42-486e-938e-dd1760e53813)
